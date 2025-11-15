@@ -11,12 +11,14 @@
             "id": "53f631b40be89474",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "posts/hi.jpg"
+                "file": "posts/1.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "hi"
+              "icon": "lucide-file",
+              "title": "1"
             }
           }
         ]
@@ -169,8 +171,12 @@
   },
   "active": "53f631b40be89474",
   "lastOpenFiles": [
-    "spec/about.md",
+    "posts/1.png",
+    "posts/1.md",
+    "posts/1-2.jpg",
+    "posts/1-1.jpg",
+    "posts/hi.md",
     "posts/hi.jpg",
-    "posts/hi.md"
+    "spec/about.md"
   ]
 }
